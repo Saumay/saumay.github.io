@@ -4,8 +4,6 @@ vendor
 Gemfile.lock
 
 # Jekyll cache
-.jekyll-cache
-_site
 
 # RubyGems
 *.gem
@@ -18,4 +16,3 @@ package-lock.json
 .idea
 
 # Misc
-assets/js/dist
